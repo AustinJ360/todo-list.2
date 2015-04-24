@@ -25,7 +25,6 @@
 				}
 			}
 			?>
-
 			</ul>		
 		</div>
 	<form class="add-new-task" autocomplete="off">
@@ -58,5 +57,4 @@
 	  });
 	});
 	</script>
-
 </html>
